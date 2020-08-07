@@ -1,3 +1,3 @@
 # MyTeraConfig 64bit@client
 Config files \Client\Engine\Config\ 
-(NVIDIA only) Ingame anisotropic filtering & vsync disabled (turned ON in nvidia control panel), fps lock 60.
+TBD
